@@ -45,8 +45,7 @@ When run for the first time, the plugin will create a default configuration file
 The default messages are in the `NoTCBlockEntity.json` file under the `oxide/lang/en` directory. To add support for another language, create a new language folder (e.g. **de** for German) if not already created, copy the default language file to the new folder and then customize the messages.
 ```json
 {
-  "BlockedMessage": "<color=#ff6969>WARNING:</color> You must be within range of a <color=#ffa500>Tool Cupboard</color> to place a <color=#ffa500>{entity}</
-color>!"
+  "BlockedMessage": "<color=#ff6969>WARNING:</color> You must be within range of a <color=#ffa500>Tool Cupboard</color> to place a <color=#ffa500>{entity}</color>!"
 }
 ```
 # Credits
